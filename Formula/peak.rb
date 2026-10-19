@@ -2,7 +2,6 @@
 class Peak < Formula
   desc "Run GitHub Actions workflows on Peak's runners from your checkout"
   homepage "https://peak.inc"
-  version "0.2.0"
 
   on_macos do
     on_arm do
