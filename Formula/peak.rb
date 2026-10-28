@@ -5,23 +5,23 @@ class Peak < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/PeakInc/homebrew-tap/releases/download/v0.4.1/peak-0.4.1-darwin-arm64.tar.gz"
-      sha256 "141a8bfe5f68b52c61181d2475655d94b91ae4c771df37b882b6673f1e298b5e"
+      url "https://github.com/PeakInc/homebrew-tap/releases/download/v0.4.2/peak-0.4.2-darwin-arm64.tar.gz"
+      sha256 "f9239bf1821df59dea5c80a7124d9954f4ebb565052584ae6153aeb7bda93a9a"
     end
     on_intel do
-      url "https://github.com/PeakInc/homebrew-tap/releases/download/v0.4.1/peak-0.4.1-darwin-x64.tar.gz"
-      sha256 "da6be63db6b691d18b846898f7c10280109fd87cb3100468d6af31290890fd9d"
+      url "https://github.com/PeakInc/homebrew-tap/releases/download/v0.4.2/peak-0.4.2-darwin-x64.tar.gz"
+      sha256 "a04cd61577b3e726d9ccb81ae846cfe7312c4b68ded4faf29a556591036f16d6"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/PeakInc/homebrew-tap/releases/download/v0.4.1/peak-0.4.1-linux-arm64.tar.gz"
-      sha256 "b5e44fd1aa94ddf90605f853e5b2358cb9a1407d5070ea8a2e6e94d3a24d2679"
+      url "https://github.com/PeakInc/homebrew-tap/releases/download/v0.4.2/peak-0.4.2-linux-arm64.tar.gz"
+      sha256 "2a2d8279503513ae1693494b66f86ee12c9f0655a69d9aab2e2ed5b80066ec4c"
     end
     on_intel do
-      url "https://github.com/PeakInc/homebrew-tap/releases/download/v0.4.1/peak-0.4.1-linux-x64.tar.gz"
-      sha256 "46de0a6d7eaa81e4504404c9e547b7470efcbb585e2741decfc9d9939b2bbd76"
+      url "https://github.com/PeakInc/homebrew-tap/releases/download/v0.4.2/peak-0.4.2-linux-x64.tar.gz"
+      sha256 "e95eab9ffb8999dae74a01ba2a981d0ce16b2d63903668cdce48c9118917a533"
     end
   end
 
